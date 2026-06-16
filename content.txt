@@ -1,0 +1,11 @@
+create virtual env
+install requirements.txt
+Test if langchain is installed or not.
+
+We need API Keys.
+openAI : platform.openai.com, Gemini: ai.google.dev
+You need to add credits
+Recharge account. Save secret keys in .env and dot_env library will take care of it.
+
+I didn't have credits so couldn't run. 
+OpenAI's GPT, Anthropic's Claude, or Google's Gemini are not free. We must use open-source models. 
